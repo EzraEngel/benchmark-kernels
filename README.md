@@ -1,6 +1,6 @@
 # Benchmark Kernel Reference Implementations
 
-This repository contains reference implementations for the **"Beyond Entity Count"** benchmarking suite. These implementations serve as the "Gold Standard" for verifying correctness and performance baselines when using the [Simulation Test Harness](LINK_TO_HARNESS_REPO).
+This repository contains reference implementations for the **"Beyond Entity Count"** benchmarking suite. These implementations serve as the "Gold Standard" for verifying correctness and performance baselines when using the [Simulation Test Harness](https://github.com/EzraEngel/sim-benchmarking).
 
 ## Current Implementations
 
