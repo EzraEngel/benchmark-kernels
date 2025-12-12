@@ -15,7 +15,7 @@ A pre-compiled 64-bit Windows binary is included in this repository for immediat
 
 1.  Locate the build:
     ```text
-    ./DOTSBuild/Benchmark.exe -nographics -batchmode -scenarioType GEO_NO_LOS -scenarioName normal_static_no_los.md.json -scenarioPath /path/to/parent/benchmarks/geometry/normal_static_no_los/normal_static_no_los.md.json -numUpdates 100
+    ./sensing_kernel/DOTSBuild/Benchmark.exe
     ```
 2.  Point your harness `config.yaml` to this executable path to run the verification suite.
 
